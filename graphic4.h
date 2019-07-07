@@ -1,0 +1,1 @@
+int graphic4(void);

@@ -1,0 +1,1 @@
+int graphic2(int position, int number, int input1, int input2, int input3, int input4, int opportunity);

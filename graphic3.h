@@ -1,0 +1,1 @@
+int graphic3(int random1, int random2, int random3, int random4);
